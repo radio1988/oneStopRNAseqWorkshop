@@ -10,7 +10,7 @@
 
 RNAseq is a popular technique to generate insight into the transcriptome. Generally, the anlaysis of RNAseq involved many steps and takes time. Here we present a *oneStopRNAseq* pipeline that does comprehensive RNAseq analysis, including QC, alignment, expression quantification, differential expression, alternative splicing, differential exon usage, alternative polyadenylation, allele-specific expression analysis, and [GSEA][11]. Additionally, it touches scRNAseq analysis. It runs on local computer, HPC, and AWS efficiently. Bioinformaticians can use the command line interface. Biologists can use the web interface.
 
-During this workshop, we will give an overview of popular RNAseq analysis, and the advantages and disadvantages of selected popular tools, the reason we pre-built a comprehensive analysis pipeline with selected tools, then demostrate running *oneStopRNAseq* in both interfaces.
+During this workshop, we will give an overview of popular RNAseq analysis, and the advantages and disadvantages of selected popular tools, the reason we pre-built a comprehensive analysis pipeline with selected tools, then demonstrate running *oneStopRNAseq* in both interfaces.
 
 ## Pre-requisites
 * Basic knowledge of RNAseq technology and popular analysis concepts
@@ -40,7 +40,7 @@ During this workshop, we will give an overview of popular RNAseq analysis, and t
 | Activity                     | Time |
 |------------------------------|------|
 | Overview of analysis methods and *oneStopRNAseq* | 20m|
-| Demo of commandline interface and web interface  | 10min |
+| Demo of command line interface and web interface  | 10min |
 | Hands-on workshop | 25m |
 | Q & A| 5 min|
 
